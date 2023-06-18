@@ -1,12 +1,12 @@
+Ali Aufa FAkhri
+RMT 019
+
 # Home Credit - Credit Default Risk Prediction
 
 Proyek ini bertujuan untuk mengembangkan model prediksi yang dapat mengklasifikasikan risiko kredit default. Dataset yang digunakan berisi informasi tentang klien, demografi klien, dan transaksi klien. Tugas klasifikasi adalah untuk memprediksi apakah pemilik kredit akan melakukan pembayaran yang default atau tidak.
 
+## Deployment Link
 Deployment : https://huggingface.co/spaces/aliaufa/Home-Credit-Customer-Default-Prediction
-
-## Gambaran Proyek
-
-PT Home Credit Indonesia, sebuah lembaga keuangan yang menyediakan layanan pembiayaan, memerlukan model prediksi risiko kredit yang akurat untuk mengelola dana pinjaman dengan efektif dan mengurangi risiko keuangan. Model ini akan membantu dalam mengelola dana pinjaman, memperkirakan risiko kredit, menentukan suku bunga yang tepat, dan menilai kelayakan keuangan peminjam.
 
 ## Permasalahan
 
