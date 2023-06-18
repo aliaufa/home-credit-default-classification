@@ -27,3 +27,11 @@ Model akan dievaluasi berdasarkan kemampuannya dalam mengklasifikasikan risiko k
 5. Penyetelan hiperparameter: Optimalkan model yang dipilih dengan menyetel hiperparameter menggunakan teknik seperti pencarian acak atau pencarian grid.
 6. Pemilihan model akhir: Pilih model dengan performa terbaik berdasarkan metrik evaluasi.
 7. Inferensi model
+
+## Kesimpulan
+
+Berdasarkan evaluasi model menggunakan metrik-metrik yang relevan, ditemukan bahwa model prediksi risiko kredit default yang menggunakan regresi logistik memiliki performa terbaik. Model ini mencapai ROC-AUC sebesar 0.7408, yang menunjukkan kemampuan yang baik dalam membedakan risiko kredit default dan bukan default. Selain itu, model ini juga memiliki nilai recall sebesar 0.67, yang menunjukkan kemampuan yang baik dalam mengidentifikasi kasus risiko kredit default.
+
+Dengan menggunakan model regresi logistik yang telah dioptimalkan, PT Home Credit Indonesia dapat memprediksi dengan lebih akurat kemungkinan risiko kredit default pada klien mereka. Hal ini akan membantu perusahaan dalam mengambil keputusan yang tepat terkait pengelolaan pinjaman, penentuan suku bunga yang tepat, dan evaluasi kelayakan keuangan peminjam.
+
+Penggunaan model prediksi risiko kredit default ini dapat membantu PT Home Credit Indonesia dalam mengurangi risiko keuangan, meningkatkan efisiensi pengelolaan dana pinjaman, dan memastikan stabilitas bisnis pembiayaan.
