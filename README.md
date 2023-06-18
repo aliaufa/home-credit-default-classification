@@ -1,6 +1,8 @@
-# Credit Default Risk Prediction
+# Home Credit - Credit Default Risk Prediction
 
 Proyek ini bertujuan untuk mengembangkan model prediksi yang dapat mengklasifikasikan risiko kredit default. Dataset yang digunakan berisi informasi tentang klien, demografi klien, dan transaksi klien. Tugas klasifikasi adalah untuk memprediksi apakah pemilik kredit akan melakukan pembayaran yang default atau tidak.
+
+Deployment : https://huggingface.co/spaces/aliaufa/Home-Credit-Customer-Default-Prediction
 
 ## Gambaran Proyek
 
